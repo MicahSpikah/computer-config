@@ -1,5 +1,6 @@
 let g:load_doxygen_syntax=1
 set background=light
+set backspace=indent,eol,start
 set tabstop=4
 set shiftwidth=4
 set cino=(0
@@ -20,4 +21,3 @@ set breakindent
 set autoread
 filetype plugin indent on
 syntax enable
-"color solarized
