@@ -1,0 +1,9 @@
+*~
+.DS_Store
+.*.swp
+.qmake.stash
+.vscode
+build*/
+gentex-cmake_dependencies/
+packages/
+project_variables.cmake
