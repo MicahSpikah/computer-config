@@ -1,0 +1,5 @@
+#!/usr/local/bin/fish
+set -Ux CMAKE_GENERATOR Xcode
+set -Ux fish_prompt_pwd_dir_length 0
+set -Ux GENTEX_TESTING_RUN_TESTS OFF
+set -Ux GREP_OPTIONS --exclude-dir=.svn
