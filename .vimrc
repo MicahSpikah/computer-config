@@ -21,3 +21,4 @@ set breakindent
 set autoread
 filetype plugin indent on
 syntax enable
+autocmd FileType * setlocal formatoptions-=c formatoptions-=r formatoptions-=o
