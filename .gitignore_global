@@ -4,6 +4,3 @@
 .qmake.stash
 .vscode
 build*/
-gentex-cmake_dependencies/
-packages/
-project_variables.cmake
